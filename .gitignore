@@ -132,3 +132,6 @@ COVID
 NORMAL
 PNEUMONIA
 tensorflow-apple-metal-conda.yml
+*.npy
+data.npy
+target.npy
