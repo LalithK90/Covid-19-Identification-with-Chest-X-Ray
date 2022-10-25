@@ -135,3 +135,4 @@ tensorflow-apple-metal-conda.yml
 *.npy
 data.npy
 target.npy
+.DS_Store
