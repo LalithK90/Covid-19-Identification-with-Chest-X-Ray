@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Custom add by myself
+
+TRAINING
 COVID
 NORMAL
 PNEUMONIA
